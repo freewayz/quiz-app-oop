@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "quizapp"
+version = "0.1.0"
+description = ""
+authors = ["peter <fr33wayz@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.5"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.5"
